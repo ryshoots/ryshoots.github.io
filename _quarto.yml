@@ -3,17 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "ryshoots.github.io"
+  title: "Ry Shoots 📸"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - text: Posts
+        menu: 
+          - href: post1.qmd
+          - href: post2.qmd
+          - href: post3.qmd
+      - archive.qmd
+    right: 
+      - contact.qmd
+  
+          
 format:
   html:
     theme:
-      - cosmo
+      - lux
       - brand
     css: styles.css
     toc: true

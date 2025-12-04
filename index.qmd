@@ -1,11 +1,28 @@
 ---
-title: "ryshoots.github.io"
+title: "Welcome To My Website!"
 ---
 
-This is a Quarto website.
+<br> If you got here by accident, please stay. It was a sign by the universe. You might find a new favorite photographer. (hopefully)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   If you want to know more about me, head to the menu and go to **About Me**
+-   If you want to view my posts, go to **Posts**
+-   If you want to contact me, go to **Contact Me**
+-   (I know, they are obvious, but people can be stupid)
 
-```{r}
-1 + 1
-```
+Oh, your still here?! You can view some of my favorite photos below.⬇️
+
+<br>
+
+::: {style="display:flex; gap:15px; justify-content:center;"}
+<img src="images/DSCF9249.jpg" width="49%"/> <img src="images/DSCF9072.jpeg" width="49%"/>
+:::
+
+<center>![](images/clipboard-2334183739.png){width="4500"}</center>
+
+<br> ![](images/clipboard-231249410.png)
+
+<br> ![](images/clipboard-961750772.png)
+
+<br> ![](images/clipboard-2534959076.png)
+
+<br> <center> Thanks for looking! ✌️ </center>
