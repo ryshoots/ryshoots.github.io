@@ -14,15 +14,18 @@ Oh, your still here?! You can view some of my favorite photos below.⬇️
 <br>
 
 ::: {style="display:flex; gap:15px; justify-content:center;"}
-<img src="images/DSCF9249.jpg" width="49%"/> <img src="images/DSCF9072.jpeg" width="49%"/>
+<img src="images/DSCF9249-min.jpeg" style="width:49%; height:auto;"/> <img src="images/DSCF9072-min.jpeg" style="width:49%; height:auto;"/>
 :::
 
-<center>![](images/clipboard-2334183739.png){width="4500"}</center>
+::: {style="display:flex; gap:15px; justify-content:center;"}
+:::
 
-<br> ![](images/clipboard-231249410.png)
+<br> <center>![](images/clipboard-2665054231.jpeg)</center>
 
-<br> ![](images/clipboard-961750772.png)
+<br> <br> ![](images/clipboard-2516977763.jpeg)
 
-<br> ![](images/clipboard-2534959076.png)
+<br> ![](images/clipboard-711633713.jpeg)
 
-<br> <center> Thanks for looking! ✌️ </center>
+<br> ![](images/clipboard-3170821054.png)
+
+<br> <center> Thanks for looking! ✌️</center>
