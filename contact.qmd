@@ -4,8 +4,8 @@ title: "Contact Me"
 
 ## <br> Gmail 
 
-- rsmitchell3110@gmail.com
-- remsm12@icloud.com
+- <a href="mailto:rsmitchell3110@gmail.com">rsmitchell3110@gmail.com</a>
+- <a href="mailto:remsm12@icloud.com">resm12@icloud.com</a>
 
 ## Discord
 
