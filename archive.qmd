@@ -2,4 +2,88 @@
 title: "The Archives"
 ---
 
-<br> This section is still under construction/to be used. As I add more a more posts, I will send the older ones here to make space in the posts dropdown. :)
+<br> This section is still under construction/to be used. As I add posts, I will send them here to make space in the posts drop-down and to just keep it organized, so you can always find them :)
+
+## <br> January
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> February
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> March
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> April
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> May
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> June
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> July
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> August
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> September
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> October
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> November
+
+-   to be filled
+-   to be filled
+-   to be filled
+-   to be filled
+
+## <br> December
+
+-   [Post 1](post1.qmd)
+-   [Post 2](post2.qmd)
+-   [Post 3](post3.qmd)
+-   [Post 4](post4.qmd)
