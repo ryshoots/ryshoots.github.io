@@ -20,12 +20,12 @@ Oh, your still here?! You can view some of my favorite photos below.⬇️
 ::: {style="display:flex; gap:15px; justify-content:center;"}
 :::
 
-<br> <center>![](images/clipboard-2665054231.jpeg)</center>
+<br> <center>![](images/DSCF9744-min.jpeg)</center>
 
-<br> <br> ![](images/clipboard-2516977763.jpeg)
+<br> <br> ![](images/DSCF9570-min.jpeg)
 
-<br> ![](images/clipboard-711633713.jpeg)
+<br> ![](images/DSCF9477-min.jpeg)
 
-<br> ![](images/clipboard-3170821054.png)
+<br> ![](images/DSCF9412-min.jpeg)
 
 <br> <center> Thanks for looking! ✌️</center>
