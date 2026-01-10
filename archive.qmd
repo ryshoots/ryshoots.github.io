@@ -6,16 +6,11 @@ title: "The Archives"
 
 ## <br> January
 
--  [Post 1](post1.qmd)
--  [Post 2](post2.qmd)
--  [Post 3](post3.qmd)
--  [Post 4](post4.qmd)
-
+-   [Christmas At Dollywood](Christmas%20At%20Dollywood.qmd)
+-   [Chattanooga Lantern Festival](Chattanooga%20Lantern%20Festival.qmd)
 
 ## <br> February
 
--   to be filled
--   to be filled
 -   to be filled
 -   to be filled
 
@@ -23,13 +18,9 @@ title: "The Archives"
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
 
 ## <br> April
 
--   to be filled
--   to be filled
 -   to be filled
 -   to be filled
 
@@ -37,13 +28,9 @@ title: "The Archives"
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
 
 ## <br> June
 
--   to be filled
--   to be filled
 -   to be filled
 -   to be filled
 
@@ -51,13 +38,9 @@ title: "The Archives"
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
 
 ## <br> August
 
--   to be filled
--   to be filled
 -   to be filled
 -   to be filled
 
@@ -65,13 +48,9 @@ title: "The Archives"
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
 
 ## <br> October
 
--   to be filled
--   to be filled
 -   to be filled
 -   to be filled
 
@@ -79,13 +58,8 @@ title: "The Archives"
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
 
 ## <br> December
 
 -   to be filled
 -   to be filled
--   to be filled
--   to be filled
-

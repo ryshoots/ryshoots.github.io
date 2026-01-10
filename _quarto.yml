@@ -11,10 +11,8 @@ website:
       - about.qmd
       - text: Posts
         menu: 
-          - href: post1.qmd
-          - href: post2.qmd
-          - href: post3.qmd
-          - href: post4.qmd
+          - href: Christmas At Dollywood.qmd
+          - href: Randoms of Winter.qmd
       - archive.qmd
     right: 
       - contact.qmd
