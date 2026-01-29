@@ -11,7 +11,7 @@ title: "The Archives"
 
 ## <br> February
 
--   to be filled
+-   [Foggy Days in the Appalachians](foggyapps.qmd)
 -   to be filled
 
 ## <br> March
