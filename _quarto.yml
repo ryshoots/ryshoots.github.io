@@ -11,7 +11,7 @@ website:
       - about.qmd
       - text: Posts
         menu: 
-          - href: Christmas At Dollywood.qmd
+          - href: foggyapps.qmd
           - href: Randoms of Winter.qmd
       - archive.qmd
     right: 
