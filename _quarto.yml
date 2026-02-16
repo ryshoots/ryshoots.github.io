@@ -12,7 +12,7 @@ website:
       - text: Posts
         menu: 
           - href: foggyapps.qmd
-          - href: Randoms of Winter.qmd
+          - href: latewinter.qmd
       - archive.qmd
     right: 
       - contact.qmd
