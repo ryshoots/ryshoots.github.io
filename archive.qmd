@@ -7,22 +7,12 @@ title: "The Archives"
 ## <br> January
 
 -   [Christmas At Dollywood](Christmas%20At%20Dollywood.qmd)
--   [Randoms of Winter](Randoms of Winter.qmd)
+-   [Randoms of Winter](Randoms%20of%20Winter.qmd)
 
 ## <br> February
 
 -   [Foggy Days in the Appalachians](foggyapps.qmd)
 -   [End of Winter in the Appalachians](latewinter.qmd)
-
-## <br> March
-
--   to be filled
--   to be filled
-
-## <br> April
-
--   to be filled
--   to be filled
 
 ## <br> May
 
